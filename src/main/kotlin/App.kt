@@ -3,6 +3,7 @@ object App {
         //Basic().run()
         //Str().run()
         //Arr().run()
-        CollectionS().run()
+        //Collection_().run()
+        Enum_()
     }
 }

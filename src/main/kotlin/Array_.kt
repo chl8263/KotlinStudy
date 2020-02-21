@@ -1,6 +1,6 @@
 import java.util.*
 
-class Arr {
+class Array_ {
     fun run() = empty()
 
     fun empty(){

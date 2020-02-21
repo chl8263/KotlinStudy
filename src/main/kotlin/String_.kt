@@ -1,4 +1,4 @@
-class Str {
+class String_ {
 
     fun run() = element()
 

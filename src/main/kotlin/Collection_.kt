@@ -1,4 +1,4 @@
-class CollectionS {
+class Collection_ {
 
     fun run() = set()
 
