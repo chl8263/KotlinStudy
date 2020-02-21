@@ -1,4 +1,4 @@
-## 5 Collections
+## 5. Collections
 
 Unlike many language, Kotlin distinguishes between mutable and immutable collections.
 Precise control over exactly when collections can be edited is useful for eliminating bugs, and designing good APIs.

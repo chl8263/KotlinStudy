@@ -1,4 +1,4 @@
-## 4 Arrays
+## 4. Arrays
 
 #### 1. Generic Arrays
 

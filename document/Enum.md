@@ -1,4 +1,4 @@
-## 6 Enum
+## 6. Enum
 
 #### 1. Initialization
 Enum classes as any other classes can have a constructor and be initialized

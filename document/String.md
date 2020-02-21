@@ -1,4 +1,4 @@
-## 3 String
+## 3. String
 
 #### 1. String Equality
 String are compared with == operator with check for their structural equality.
