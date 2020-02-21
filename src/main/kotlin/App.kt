@@ -1,5 +1,7 @@
+import basic.Basic
+
 object App {
     @JvmStatic fun main(args: Array<String>){
-        println("hello with object");
+        Basic().run()
     }
 }

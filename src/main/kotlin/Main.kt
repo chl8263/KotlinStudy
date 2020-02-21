@@ -1,7 +1,7 @@
-class Hello {
+class Main {
     companion object{
         @JvmStatic fun main(args: Array<String>){
-            println("hello")
+            println("hello2")
         }
     }
 }
