@@ -29,3 +29,5 @@ Welcome to Kotlin version 1.3.61 (JRE 1.8.0_231-b11)
 - [GettingStartKotlin](https://github.com/chl8263/KotlinStudy/blob/master/document/GettingStartKotlin.md)
 
 - [Basic grammar](https://github.com/chl8263/KotlinStudy/blob/master/document/Basic%20of%20Kotlin.md)
+
+- [String](https://github.com/chl8263/KotlinStudy/blob/master/document/String.md)
