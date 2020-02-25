@@ -31,3 +31,9 @@ Welcome to Kotlin version 1.3.61 (JRE 1.8.0_231-b11)
 - [Basic grammar](https://github.com/chl8263/KotlinStudy/blob/master/document/Basic%20of%20Kotlin.md)
 
 - [String](https://github.com/chl8263/KotlinStudy/blob/master/document/String.md)
+
+- [Arrays](https://github.com/chl8263/KotlinStudy/blob/master/document/Arrays.md)
+
+- [Collections](https://github.com/chl8263/KotlinStudy/blob/master/document/Collections.md)
+
+- [Enum](https://github.com/chl8263/KotlinStudy/blob/master/document/Enum.md)
