@@ -4,6 +4,7 @@ object App {
         //Str().run()
         //Arr().run()
         //Collection_().run()
-        Enum_()
+        //Enum_()
+        Function_().run()
     }
 }

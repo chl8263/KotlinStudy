@@ -1,5 +1,3 @@
-package basic
-
 class Basic {
 
     fun run() = nullHold()
