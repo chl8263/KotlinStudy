@@ -26,14 +26,22 @@ Welcome to Kotlin version 1.3.61 (JRE 1.8.0_231-b11)
 
 ## Document
 
-- [GettingStartKotlin](https://github.com/chl8263/KotlinStudy/blob/master/document/GettingStartKotlin.md)
+- [GettingStartKotlin](https://github.com/chl8263/KotlinStudy/blob/master/document/1.GettingStartKotlin.md)
 
-- [Basic grammar](https://github.com/chl8263/KotlinStudy/blob/master/document/Basic%20of%20Kotlin.md)
+- [Basic grammar](https://github.com/chl8263/KotlinStudy/blob/master/document/2.Basic%20of%20Kotlin.md)
 
-- [String](https://github.com/chl8263/KotlinStudy/blob/master/document/String.md)
+- [String](https://github.com/chl8263/KotlinStudy/blob/master/document/3.String.md)
 
-- [Arrays](https://github.com/chl8263/KotlinStudy/blob/master/document/Arrays.md)
+- [Arrays](https://github.com/chl8263/KotlinStudy/blob/master/document/4.Arrays.md)
 
-- [Collections](https://github.com/chl8263/KotlinStudy/blob/master/document/Collections.md)
+- [Collections](https://github.com/chl8263/KotlinStudy/blob/master/document/5.Collections.md)
 
-- [Enum](https://github.com/chl8263/KotlinStudy/blob/master/document/Enum.md)
+- [Enum](https://github.com/chl8263/KotlinStudy/blob/master/document/6.Enum.md)
+
+- [Function](https://github.com/chl8263/KotlinStudy/blob/master/document/7.Function.md)
+
+- [Vararg](https://github.com/chl8263/KotlinStudy/blob/master/document/8.Vararg.md)
+
+- [ConditionStatements](https://github.com/chl8263/KotlinStudy/blob/master/document/9.ConditionStatements.md)
+
+- [Loops](https://github.com/chl8263/KotlinStudy/blob/master/document/10.Loops.md)
