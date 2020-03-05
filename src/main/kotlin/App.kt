@@ -5,6 +5,7 @@ object App {
         //Arr().run()
         //Collection_().run()
         //Enum_()
-        Function_().run()
+        //Function_().run()
+        Loops_().run()
     }
 }
