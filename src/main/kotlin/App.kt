@@ -7,6 +7,7 @@ object App {
         //Enum_()
         //Function_().run()
         //Loops_().run()
-        Ranges_().run()
+        //Ranges_().run()
+        BasicLambda_().run()
     }
 }
