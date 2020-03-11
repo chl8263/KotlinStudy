@@ -8,6 +8,7 @@ object App {
         //Function_().run()
         //Loops_().run()
         //Ranges_().run()
-        BasicLambda_().run()
+        //BasicLambda_().run()
+        NullSafety_().run()
     }
 }
