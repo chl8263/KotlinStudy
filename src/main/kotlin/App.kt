@@ -9,6 +9,7 @@ object App {
         //Loops_().run()
         //Ranges_().run()
         //BasicLambda_().run()
-        NullSafety_().run()
+        //NullSafety_().run()
+        ClassDelegation_().run()
     }
 }

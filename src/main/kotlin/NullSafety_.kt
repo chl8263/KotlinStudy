@@ -34,5 +34,16 @@ class NullSafety_ {
             println("let")
             println(it)
         }
+        println("==========")
+
+        var aaa : A? = null
+
+        println(aaa?.a)
+
     }
+}
+
+class A(){
+
+    var a : String = "testA"
 }
