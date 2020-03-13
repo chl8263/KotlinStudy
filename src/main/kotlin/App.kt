@@ -10,6 +10,7 @@ object App {
         //Ranges_().run()
         //BasicLambda_().run()
         //NullSafety_().run()
-        ClassDelegation_().run()
+        //ClassDelegation_().run()
+        ClassInheritance_().run()
     }
 }
