@@ -11,6 +11,8 @@ object App {
         //BasicLambda_().run()
         //NullSafety_().run()
         //ClassDelegation_().run()
-        ClassInheritance_().run()
+        //ClassInheritance_().run()
+        //Generic_().run()
+        Interfaces_().run()
     }
 }
