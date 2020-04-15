@@ -2,7 +2,7 @@ class String_ {
 
     fun run() = element()
 
-    fun literal (){
+    fun literal() {
         val a = "Hello \n Hello"
         val b = "Hello \t Hello"
         val c = "Hello \b Hello"
@@ -22,7 +22,7 @@ class String_ {
         println(h)
     }
 
-    fun literal2(){
+    fun literal2() {
         val text = """      
             |for (c in foo)
             |    print(c)
@@ -31,11 +31,11 @@ class String_ {
         println(text)
     }
 
-    fun element(){
+    fun element() {
         val str = "Hello, World!"
         println(str[1])
 
-        for(x in str){
+        for (x in str) {
             println(x)
         }
     }

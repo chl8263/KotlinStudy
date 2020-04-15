@@ -2,7 +2,7 @@ class Collection_ {
 
     fun run() = set()
 
-    fun list(){
+    fun list() {
         val list = listOf("Item1", "Item2", "Item3")
         //list.add("Item4")
         println(list)
@@ -13,14 +13,14 @@ class Collection_ {
 
     }
 
-    fun map(){
+    fun map() {
         val map = mapOf(Pair(1, "Item1"), Pair(2, "Item2"), Pair(3, "Item3"))
 
         val map2 = mutableMapOf(Pair(1, "Item1"), Pair(2, "Item2"), Pair(3, "Item3"))
         println(map)
     }
 
-    fun set(){
+    fun set() {
         val set = setOf(1, 3, 5)
 
         val set2 = mutableSetOf(1, 3, 5)

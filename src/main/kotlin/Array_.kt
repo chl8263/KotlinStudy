@@ -3,13 +3,13 @@ import java.util.*
 class Array_ {
     fun run() = empty()
 
-    fun empty(){
+    fun empty() {
         val emptyArr = emptyArray<String>()
 
-        for(x in emptyArr)
+        for (x in emptyArr)
             println(x)
 
-        var arr = Array<String>(size = 5, init = {index -> "Item #$index"})
+        var arr = Array<String>(size = 5, init = { index -> "Item #$index" })
 
         println(Arrays.toString(arr))
         println(arr.size)

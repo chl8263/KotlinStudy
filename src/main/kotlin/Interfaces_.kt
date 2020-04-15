@@ -5,6 +5,9 @@ class Interfaces_ {
         myinterfacesClass.withImplementation()
 
         println(myinterfacesClass.helloWorld)
+
+        val b = DuplecateInterfaceClass()
+        b.a()
     }
 }
 
@@ -15,7 +18,6 @@ class DuplecateInterfaceClass : ABC, ABCD{
     override fun a() {
         super<ABC>.a()
     }
-
 }
 
 interface MyInterface{

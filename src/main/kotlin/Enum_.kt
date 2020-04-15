@@ -1,22 +1,22 @@
 class Enum_ {
-    enum class Color (val rgb: Int){
+    enum class Color(val rgb: Int) {
         RED(0xFF000),
         GREEN(0x00FF00),
         BLUE(0x0000FF)
     }
 
-    enum class Color2{
+    enum class Color2 {
         RED, GREEN, BLUE
     }
 
-    enum class Color3(var x : Int = 0){
+    enum class Color3(var x: Int = 0) {
         EARTH(7 * 10000),
         MARS();
 
         override fun toString(): String = "$name [x = $x]"
     }
 
-    constructor(){
+    constructor() {
         var a = Color.RED
         println(a.rgb)
 
