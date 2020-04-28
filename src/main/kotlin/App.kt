@@ -14,6 +14,7 @@ object App {
         //ClassDelegation_().run()
         //ClassInheritance_().run()
         //Generic_().run()
-        Interfaces_().run()
+        //Interfaces_().run()
+        TypeSafeBuilder_().run()
     }
 }
