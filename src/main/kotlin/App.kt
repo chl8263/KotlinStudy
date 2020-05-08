@@ -1,3 +1,5 @@
+import extension.Extension_
+
 object App {
     @JvmStatic
     fun main(args: Array<String>) {
@@ -15,6 +17,7 @@ object App {
         //ClassInheritance_().run()
         //Generic_().run()
         //Interfaces_().run()
-        TypeSafeBuilder_().run()
+        //TypeSafeBuilder_().run()
+        Extension_().run()
     }
 }
