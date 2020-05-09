@@ -17,7 +17,7 @@ object App {
         //ClassInheritance_().run()
         //Generic_().run()
         //Interfaces_().run()
-        //TypeSafeBuilder_().run()
-        Extension_().run()
+        TypeSafeBuilder_().run()
+        //Extension_().run()
     }
 }
