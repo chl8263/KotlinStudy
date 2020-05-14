@@ -15,7 +15,12 @@ class TypeSafeBuilder_ {
         val sb = StringBuilder()
         sb.builderAction()
 
+        return sb.toString()
+    }
 
+    inline fun buildString2(builderAction: (StringBuilder) -> Unit): String{
+        val sb = StringBuilder()
+        builderAction(sb)
         return sb.toString()
     }
 

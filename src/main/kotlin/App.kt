@@ -1,4 +1,4 @@
-import extension.Extension_
+import dsl.HikariRunner
 
 object App {
     @JvmStatic
@@ -17,7 +17,8 @@ object App {
         //ClassInheritance_().run()
         //Generic_().run()
         //Interfaces_().run()
-        TypeSafeBuilder_().run()
+        //TypeSafeBuilder_().run()
         //Extension_().run()
+        HikariRunner().run()
     }
 }
