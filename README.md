@@ -5,6 +5,7 @@ For remind Android and for improve Server programming.
 * Language - Kotlin
 * Tool - visual Studio Code, Intellij
 
+
 ## Setup - Window10
 
 1. Download [Kotlin compiler](https://github.com/JetBrains/kotlin/releases/tag/v1.2.41)
@@ -68,4 +69,5 @@ Welcome to Kotlin version 1.3.61 (JRE 1.8.0_231-b11)
 - [Type aliases](https://github.com/chl8263/KotlinStudy/blob/master/document/20.Type%20aliases.md)
 
 - [Type safe builder](https://github.com/chl8263/KotlinStudy/blob/master/document/21.Type%20safe%20builder.md)
+
 
